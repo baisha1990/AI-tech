@@ -1,0 +1,8 @@
+1) Generative AI - Subset of AI that specializes in content creation capable of creating new content like images/music/text.
+
+2) LLM - Large Language Model - Specific type of Generative AI that specializes in text generation and natural language processing.
+Common examples of LLMs include:-
+a) ChatGPT from OpenAI
+b) Copilot from Microsoft
+c) Gemini/Bard from Google
+d) Llama from MetaAI
